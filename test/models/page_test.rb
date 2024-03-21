@@ -251,4 +251,9 @@ class PageTest < ActiveSupport::TestCase
       assert true
     end
   end
+  describe 'describe' do
+    it "it" do
+      assert true
+    end
+  end
 end
